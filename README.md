@@ -8,3 +8,9 @@ This data set contains information about 10,000 movies collected from The Movie 
 - NumPy
 - Matplotlib
 - csv
+
+# Table of Contents
+- Introduction
+- Data Wrangling
+- Exploratory Data Analysis
+- Conclusions
